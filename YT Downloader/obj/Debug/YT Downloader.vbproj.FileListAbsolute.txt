@@ -1,0 +1,21 @@
+c:\users\ryan\documents\visual studio 2012\Projects\YT Downloader\YT Downloader\bin\Debug\YT Downloader.exe.config
+c:\users\ryan\documents\visual studio 2012\Projects\YT Downloader\YT Downloader\bin\Debug\YT Downloader.exe
+c:\users\ryan\documents\visual studio 2012\Projects\YT Downloader\YT Downloader\bin\Debug\YT Downloader.pdb
+c:\users\ryan\documents\visual studio 2012\Projects\YT Downloader\YT Downloader\bin\Debug\YT Downloader.xml
+c:\users\ryan\documents\visual studio 2012\Projects\YT Downloader\YT Downloader\bin\Debug\libvideo.dll
+c:\users\ryan\documents\visual studio 2012\Projects\YT Downloader\YT Downloader\obj\Debug\YT Downloader.vbprojResolveAssemblyReference.cache
+c:\users\ryan\documents\visual studio 2012\Projects\YT Downloader\YT Downloader\obj\Debug\YT_Downloader.Form1.resources
+c:\users\ryan\documents\visual studio 2012\Projects\YT Downloader\YT Downloader\obj\Debug\YT_Downloader.Resources.resources
+c:\users\ryan\documents\visual studio 2012\Projects\YT Downloader\YT Downloader\obj\Debug\YT Downloader.vbproj.GenerateResource.Cache
+c:\users\ryan\documents\visual studio 2012\Projects\YT Downloader\YT Downloader\obj\Debug\YT Downloader.exe
+c:\users\ryan\documents\visual studio 2012\Projects\YT Downloader\YT Downloader\obj\Debug\YT Downloader.xml
+c:\users\ryan\documents\visual studio 2012\Projects\YT Downloader\YT Downloader\obj\Debug\YT Downloader.pdb
+C:\Users\Ryan\documents\visual studio 2012\Projects\YT Downloader\YT Downloader\bin\Debug\YT Downloader.exe.manifest
+C:\Users\Ryan\documents\visual studio 2012\Projects\YT Downloader\YT Downloader\bin\Debug\YT Downloader.application
+C:\Users\Ryan\documents\visual studio 2012\Projects\YT Downloader\YT Downloader\obj\Debug\YT Downloader.exe.manifest
+C:\Users\Ryan\documents\visual studio 2012\Projects\YT Downloader\YT Downloader\obj\Debug\YT Downloader.application
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\YT Downloader\YT Downloader\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\YT Downloader\YT Downloader\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\YT Downloader\YT Downloader\obj\Debug\YT Downloader.vbproj.ResolveComReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\YT Downloader\YT Downloader\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\YT Downloader\YT Downloader\bin\Debug\AxInterop.WMPLib.dll
